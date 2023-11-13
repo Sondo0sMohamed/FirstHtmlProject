@@ -11,7 +11,7 @@ scroll-behavior: smooth;
 }
 
 header{
-background-color: aliceblue;
+background-color: rgb(41, 87, 128);
 width: 100%;
 display: flex;
 justify-content: space-between;
@@ -23,7 +23,7 @@ position: fixed;
 .logo{
 
     text-decoration: none;
-    color: blue;
+    color: rgb(221, 255, 0);
     text-transform: uppercase;
     font-size: 1.8rem;
     font-weight: 700;
